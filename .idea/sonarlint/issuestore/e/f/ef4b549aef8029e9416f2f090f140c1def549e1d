@@ -1,0 +1,11 @@
+
+[	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(ã†åî
+[	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(æÑåí
+J
+java:S3740"/Provide the parametrized type for this generic.(ñÛ·÷úÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(žè¤ üÿÿÿÿ
+R
+java:S1854"<Remove this useless assignment to local variable "carritos".(ùÝÕ·
+W
+java:S1126-"AReplace this if-then-else statement by a single return statement.(öëÉ‡

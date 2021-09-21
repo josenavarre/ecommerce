@@ -1,0 +1,25 @@
+
+`	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(òÖÿÔúÿÿÿÿ
+`	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(òÖÿÔúÿÿÿÿ
+`	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(èë³ùÿÿÿÿ
+`	java:S112w"FDefine and throw a dedicated exception instead of using a generic one.(ÄŒ îüÿÿÿÿ
+`	java:S112z"FDefine and throw a dedicated exception instead of using a generic one.(ôÓ±òûÿÿÿÿ
+J
+java:S3740&"/Provide the parametrized type for this generic.(é¸¬ùÿÿÿÿ
+J
+java:S37407"/Provide the parametrized type for this generic.(ƒÿÓÓıÿÿÿÿ
+E
+java:S3740J"/Provide the parametrized type for this generic.(˜­ê
+L
+java:S1751P"6Remove this "return" statement or make it conditional.(€‹½Œ
+h
+java:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÔÓØŒ
+c
+java:S1854€"LRemove this useless assignment to local variable "productoCompradoResponse".(œøıØ
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(„ÒÎŒ
+T
+java:S1481€"=Remove this unused "productoCompradoResponse" local variable.(œøıØ
+Q
+java:S3655:"6Call "carrito.isPresent()" before accessing the value.(ªÇ¬òøÿÿÿÿ
+R
+java:S3655:"7Call "producto.isPresent()" before accessing the value.(ªÇ¬òøÿÿÿÿ
